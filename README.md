@@ -2,8 +2,6 @@
 
 An interactive Streamlit app that recommends similar movies and classifies audience reviews as positive or negative using a trained LSTM sentiment model.
 
-**Live demo:** https://movie-recommender-sentiment-analysis-qdr3p8bdm9wgxpv4pqhjsm.streamlit.app/
-
 ## Problem
 
 Two common movie-app needs — "what should I watch next" and "is this movie actually well-received" — usually live in separate tools. This project combines a content-based recommender with a review sentiment classifier in a single app, so a user can go from picking a movie to understanding audience reaction to it, without switching tools.
@@ -76,6 +74,11 @@ movie-recommender-sentiment-analysis/
    ```
 
 For a deployed app on Streamlit Cloud, add `TMDB_API_KEY` under the app's **Settings → Secrets** instead of committing a secrets file.
+
+## Image
+<img width="1655" height="897" alt="20" src="https://github.com/user-attachments/assets/df59f794-1379-4518-ad4f-ecb890858786" />
+
+<img width="1682" height="908" alt="21" src="https://github.com/user-attachments/assets/5f49ea2b-3b47-4fd2-9e95-c2b25a1ce1fc" />
 
 ## Author
 
