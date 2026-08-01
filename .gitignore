@@ -1,0 +1,17 @@
+# Secrets — never commit real credentials
+.streamlit/secrets.toml
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Downloaded at runtime, do not commit
+similarity.pkl
+
+# OS
+.DS_Store
+Thumbs.db
