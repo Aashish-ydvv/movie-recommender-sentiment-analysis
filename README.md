@@ -82,4 +82,4 @@ For a deployed app on Streamlit Cloud, add `TMDB_API_KEY` under the app's **Sett
 
 ## Author
 
-Aashish Deo — Civil Engineer → AI/ML Engineer.
+Aashish Deo — Civil Engineer → Data Science & AI/ML Engineer
